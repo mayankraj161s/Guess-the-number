@@ -23,7 +23,7 @@ def guess():
             print("You Lost.")
             break
         if num1 < num:
-            print("You guesed lower number.")
+            print("You guessed a lower number.")
             print("Try higher.")
         if num1 > num:
             print("You guessed a higher number.")
